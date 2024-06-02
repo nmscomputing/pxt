@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "nmssnap",
+    "name": "nmssnap",
+    "title": "nmsSnap",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
